@@ -1,4 +1,4 @@
-# ~ A project template for Eclipse ~
+# ~ Eclipse project template with Cucumber ~
 
 This repository contains a Maven project created in Eclipse IDE, used to setup a BDD environment (Behavior Driven Development) with the use of: **Java**, **Maven**, **Junit**, **Gherkin** and **Cucumber**.
 The project implements all the steps contained in the following procedure.
