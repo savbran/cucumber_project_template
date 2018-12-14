@@ -2,6 +2,8 @@
 
 A Maven project template for Java containing **Cucumber**, **Gherkin**, **Junit** and **Selenium**, created in Eclipse IDE having the following setup.
 
+![Cucumber in action!](https://raw.githubusercontent.com/savbran/cucumber_project_template/master/eclipse_cucumber.png)
+
 ### Setup procedure
 
 - **Software installation**
