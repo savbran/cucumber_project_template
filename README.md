@@ -1,10 +1,10 @@
-# ~ Eclipse project template with Cucumber ~
+# ~ Maven project template with Cucumber and Selenium ~
 
-A Maven project template to use **Cucumber**, **Gherkin**, **Java** and **Junit**. Created in Eclipse IDE having the following setup.
+A Maven project template for Java containing **Cucumber**, **Gherkin**, **Junit** and **Selenium**, created in Eclipse IDE having the following setup.
 
 ### Setup procedure
 
-- **Install the following software**
+- **Software installation**
 
   - From the operating system, install the **[Eclipse for java](https://www.eclipse.org/downloads/packages/release/2018-09/r/eclipse-ide-java-developers "https://www.eclipse.org/downloads/packages/release/2018-09/r/eclipse-ide-java-developers")** IDE
 
@@ -14,7 +14,7 @@ A Maven project template to use **Cucumber**, **Gherkin**, **Java** and **Junit*
 
   - From Eclipse IDE, install ["ANSI Escape in Console" plugin](https://marketplace.eclipse.org/content/ansi-escape-console "https://marketplace.eclipse.org/content/ansi-escape-console"), used to interpret the ANSI escape sequences to correctly render and color the Eclipse Console output. With this plugin activated, the Cucumber test results written in the Eclipse Console are very clear and structured. For the installation use the Eclipse Marketplace (Eclipse menu: Help> Eclipse Marketplace... and search for "ANSI Escape in Console", then install it).
 
-- **Create an empty Cucumber project using Maven POM**
+- **Project creation**
 
   - From the official cucumber tutorial, get the [maven command to create an empty cucumber project](https://docs.cucumber.io/guides/10-minute-tutorial/#create-an-empty-cucumber-project "https://docs.cucumber.io/guides/10-minute-tutorial/#create-an-empty-cucumber-project") and copy/paste it in your shell, having the prompt set on your new project directory.
 
