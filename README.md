@@ -1,7 +1,6 @@
 # ~ Eclipse project template with Cucumber ~
 
-A Maven project created in Eclipse IDE. It is a project template to use **Java**, **Maven**, **Junit**, **Gherkin** and **Cucumber**.
-The project has been created in Eclipse configured with the following installation procedure.
+A Maven project template to use **Cucumber**, **Gherkin**, **Java** and **Junit**. Created in Eclipse IDE configured as follows.
 
 ### Installation procedure
 
