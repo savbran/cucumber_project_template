@@ -19,3 +19,5 @@ A Maven project template for Java containing **Cucumber**, **Gherkin**, **Junit*
   - From the official cucumber tutorial, get the [maven command to create an empty cucumber project](https://docs.cucumber.io/guides/10-minute-tutorial/#create-an-empty-cucumber-project "https://docs.cucumber.io/guides/10-minute-tutorial/#create-an-empty-cucumber-project") and copy/paste it in your shell, having the prompt set on your new project directory.
 
   - Update Maven dependencies contained into the generated pom.xml, finding the latest releases on [maven repository](https://mvnrepository.com "https://mvnrepository.com").
+
+  - In the pom.xml there are other few ependencies: webdrivermanager, selenium-java and slf4j-simple. Thery are used to correctly setup the TesCode in the project.
