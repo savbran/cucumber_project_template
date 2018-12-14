@@ -8,7 +8,7 @@ A Maven project template to use **Cucumber**, **Gherkin**, **Java** and **Junit*
 
   - From the operating system, install the **[Eclipse for java](https://www.eclipse.org/downloads/packages/release/2018-09/r/eclipse-ide-java-developers "https://www.eclipse.org/downloads/packages/release/2018-09/r/eclipse-ide-java-developers")** IDE
 
-  - From Eclipse IDE, install [M2Eclipse plugin](https://www.eclipse.org/m2e/ "www.eclipse.org/m2e"), it provides integration for Apache Maven into the Eclipse IDE. For the installation don't use the Marketplace but install a new software (Eclipse> Help> Install New Software...) using this site: http://download.eclipse.org/technology/m2e/releases/.
+  - From Eclipse IDE, install [M2Eclipse plugin](https://www.eclipse.org/m2e/ "www.eclipse.org/m2e"), it provides integration for Apache Maven into the Eclipse IDE. For the installation don't use the Marketplace but install a new software (Eclipse menu: Help> Install New Software...) using this site: http://download.eclipse.org/technology/m2e/releases/.
 
   - From Eclipse IDE, install [Cucumber Plugin](https://cucumber.github.io/cucumber-eclipse/ "https://cucumber.github.io/cucumber-eclipse/"),  Cucumber is a tool that supports Behaviour-Driven Development (BDD) and the plugin enables the its use in Eclipse. For the installation don't use Eclipse Marketplace but install it as new software (Eclipse menu: Help> Install New Software...) providing this site: http://cucumber.github.io/cucumber-eclipse/update-site/.
 
