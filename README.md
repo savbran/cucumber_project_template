@@ -6,13 +6,13 @@ A Maven project template to use **Cucumber**, **Gherkin**, **Java** and **Junit*
 
 - **Install the following software**
 
-  - On the operating system, install the **[Eclipse for java](https://www.eclipse.org/downloads/packages/release/2018-09/r/eclipse-ide-java-developers "https://www.eclipse.org/downloads/packages/release/2018-09/r/eclipse-ide-java-developers")** IDE
+  - From the operating system, install the **[Eclipse for java](https://www.eclipse.org/downloads/packages/release/2018-09/r/eclipse-ide-java-developers "https://www.eclipse.org/downloads/packages/release/2018-09/r/eclipse-ide-java-developers")** IDE
 
-  - From Eclipse IDE, install [M2Eclipse plugin](https://www.eclipse.org/m2e/ "www.eclipse.org/m2e"). M2Eclipse plugin provides integration for Apache Maven into the Eclipse IDE. For the installation don't use the Marketplace but install a new software (Eclipse> Help> Install New Software...) using this site: http://download.eclipse.org/technology/m2e/releases/
+  - From Eclipse IDE, install [M2Eclipse plugin](https://www.eclipse.org/m2e/ "www.eclipse.org/m2e"), it provides integration for Apache Maven into the Eclipse IDE. For the installation don't use the Marketplace but install a new software (Eclipse> Help> Install New Software...) using this site: http://download.eclipse.org/technology/m2e/releases/.
 
-  - From Eclipse IDE, install [Cucumber Plugin](https://cucumber.github.io/cucumber-eclipse/ "https://cucumber.github.io/cucumber-eclipse/"). Cucumber is a tool that supports Behaviour-Driven Development (BDD). To install Cucumber in eclipse. For the installation don't use the Marketplace but install it as new software (Eclipse> Help> Install New Software...) using this site: http://cucumber.github.io/cucumber-eclipse/update-site/
+  - From Eclipse IDE, install [Cucumber Plugin](https://cucumber.github.io/cucumber-eclipse/ "https://cucumber.github.io/cucumber-eclipse/"),  Cucumber is a tool that supports Behaviour-Driven Development (BDD) and the plugin enables the its use in Eclipse. For the installation don't use Eclipse Marketplace but install it as new software (Eclipse menu: Help> Install New Software...) providing this site: http://cucumber.github.io/cucumber-eclipse/update-site/.
 
-  - From Eclipse IDE, install [ANSI Escape in Console plugin](https://marketplace.eclipse.org/content/ansi-escape-console "https://marketplace.eclipse.org/content/ansi-escape-console"). This plugin interprets the ANSI escape sequences to color the console output. Useful to correctly read Cucumber Test results output on Eclipse Console. For the installation use the Marketplace (Eclipse> Eclipse Marketplace... search for "ANSI Escape in Console")
+  - From Eclipse IDE, install [ANSI Escape in Console plugin](https://marketplace.eclipse.org/content/ansi-escape-console "https://marketplace.eclipse.org/content/ansi-escape-console"), it interprets the ANSI escape sequences to color the console output. Useful to correctly read Cucumber Test results output in Eclipse Console. For the installation use the Eclipse Marketplace (Eclipse menu: Help> Eclipse Marketplace... and search for "ANSI Escape in Console", then install it).
 
 - **Create an empty Cucumber project using Maven POM**
 
