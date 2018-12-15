@@ -22,4 +22,4 @@ A Maven project template for Java containing **Cucumber**, **Gherkin**, **Junit*
 
   - Update Maven dependencies contained into the generated pom.xml, finding the latest releases on [maven repository](https://mvnrepository.com "https://mvnrepository.com").
 
-  - In the pom.xml there are other few ependencies: webdrivermanager, selenium-java and slf4j-simple. Thery are used to correctly setup the TesCode in the project.
+  - In the pom.xml there are other few dependencies: webdrivermanager, selenium-java and slf4j-simple. They are used to correctly setup the TestCode in the project.
